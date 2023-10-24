@@ -1,0 +1,36 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "[Nobody]",
+  "name": "JABER EL MAHJOUB ",
+  "ascii": "JABER EL MAHJOUB ",
+  "social": {
+    "github": "github",
+    "linkedin": "jaber-el-mahjoub-178167151"
+  },
+  "email": "officieljaber@gmail.com",
+  "ps1_hostname": "blackpearl",
+  "ps1_username": "JaberElMahjoub",
+  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "resume_url": "https://drive.google.com/file/d/1R4QRrnjuGw0QxZsNGcw6zN0H2rwQgIzK/view?usp=sharing",
+ 
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#66FF00",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#28282B",
+      "foreground": "#E5E9F3",
+      "yellow": "#5E81AC",
+      "green": "#66FF00",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#66FF00"
+    }
+  }
+}
